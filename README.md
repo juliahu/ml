@@ -1,3 +1,3 @@
-machine learning weekly exercises.
-supervised learning
-neural networks
+# machine learning weekly exercises.
+* supervised learning- regression & classification
+* neural networks
