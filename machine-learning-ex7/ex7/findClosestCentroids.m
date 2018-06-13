@@ -19,7 +19,7 @@ idx = zeros(size(X,1), 1);
 %               range 1..K
 %
 % Note: You can use a for-loop over the examples to compute this.
-%
+% Initialize with
 % matrix of m x K, 300 X 3
 distance = zeros(size(X,1), K);
 %disp(X(1:3, :));
